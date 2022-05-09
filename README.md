@@ -16,8 +16,8 @@ For the first part of this challenge we were able to use data from the web, tran
 ## Results: Using bulleted lists and images of DataFrames as support, address the following questions:
 For the second deliverable we got deeper into the database (the database I chose was Mobile Electronics) to answer the following questions:
 ## How many Vine reviews and non-Vine reviews were there?
-# of paid reviews: 4
-# of unpaid reviews: 1064
+### of paid reviews: 4
+### of unpaid reviews: 1064
 
 ## How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
 Five Star paid reviews: 1
@@ -36,7 +36,7 @@ As per the results shown:
 % of Five Star unpaid reviews: 49.53%
 There is no positive bias for Vine reviews. We need to remember that this may change from one category to another. As well as taking into account that the previous filters made to the database can change the perspective of this result.
 
-The additional analysis we can perform is to make this analysis through all the categories presented (some t tests can be run in order to determine if between categories there is a significance difference), and determining a new criteria for helpful votes in order to include more data. Probably this will arise more questions and we may need to make different hypothesis (specifying a significance level according to this study)
+The additional analysis we can perform is to make this analysis through all the categories presented (some t tests can be run in order to determine if between categories there is a significance difference), and determining a new criteria for helpful votes in order to include more data. Probably this will arise more questions and we may need to make different hypothesis (specifying a significance level according to this study).
 
 
 
